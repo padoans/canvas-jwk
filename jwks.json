@@ -2,8 +2,13 @@
   "keys": [
     {
       "kty": "RSA",
+      "alg": "RS256",
+      "use": "sig",
+      "kid": "kitaboo-key-1",
       "n": "4svjnc3z6E1oke8ryaGLj7jPhpx7HgnS7B2psfzGZoqA5W8A0sBkEZ3V8-s3O_TJ1SUKOMJnwBZOXit1xybfwjsLulV0M1Iz8JK4jckdZ0r8UkKETaP2_e_mOzjKi151rW1V5Koatm968ByHhMPouCYL7gliRBBn09MGRZ9Dh5PyPvpqO3OiOVHvhL-zbyveTHq4wxseN_3OYd6200T8nktjrNuc0exxqDwVwQ5aYtGKKQCErN5Bi3g0iMKvWIZwZq8G5-6YBrXwYrdYqlpVZoxYuf7gito3kSxzV-pORPSbEWh5R6o8hjanGCC4Ph1MstWu2niLcfXptUgaOLr44KRi05jDuR3H7B6xW-ao34QVc2_jBBmqr_1LsoNaoSxHqATsk7y3tUD1GDhpNRCLiuYKiDflYJ2fL3gtwq0xG-iDdz_Hq6R413BgFv9Js5_zu_Zte9ozUGP_5jvVC7l4gPT2zfoQlxSCsNkGfvgHAJ1C_YybOfGJt1bPwG1PqcfaQQkn9osCTugEvaVBumdTFBhxVTMmPgFf8u8JiTBUALadCNyETKuTwaHhQFo6ru8p0fpVWgUHcvnXYxTYG4xr3ruj2c4nu5Ya-ez9ScKsFJXZiweMr_FobcSX6cWRa76leSMka9eTyKwy1kNmoYn-bvqCxNW8p7jdU8yLlXhpsF0",
       "e": "AQAB"
     }
   ]
 }
+
+
